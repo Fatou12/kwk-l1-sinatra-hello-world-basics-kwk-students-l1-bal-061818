@@ -4,10 +4,6 @@ class App < Sinatra::Base
   get '/' do
 "I like food"
 end
-  get '/french'do
-"I speak french really good"
-end
-  get '/chocalte'do
-"I don't like chocalte "
+ 
 end
 end
